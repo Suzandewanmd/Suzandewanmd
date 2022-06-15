@@ -1,5 +1,6 @@
 ## Hi there 👋
-<html><body><font color="green">Assalamu alaikom</font></body></html>
+<html><body><font color="green">
+  <marquee direction="right">Assalamu alaikom</marquee></font></body></html>
 
 **Suzandewanmd/Suzandewanmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
